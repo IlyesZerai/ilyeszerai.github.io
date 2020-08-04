@@ -7,8 +7,8 @@ pygments: false
 markdown: kramdown
 extensions: [fenced_code_blocks]
 excerpt_separator: "<!--more-->"
-url: https://fullit.github.io
-baseurl: "/fullit.github.io"
+url: https://ilyeszerai.github.io
+baseurl: "/"
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
@@ -21,7 +21,7 @@ google_ad_client: ca-pub-9204963049240271
 post_limit: 5
 
 
-title : fullit
+title : Ilyes Zerai
 tagline: A responsive templeate built for jekyll3
 author :
   name : fullit
@@ -68,7 +68,7 @@ JB :
   #   - Only the following values are falsy: ["", null, false]
   #   - When setting BASE_PATH it must be a valid url.
   #     This means always setting the protocol (http|https) or prefixing with "/"
-  BASE_PATH : https://fullit.github.io
+  #BASE_PATH : https://fullit.github.io
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
