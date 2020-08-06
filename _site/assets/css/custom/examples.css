@@ -208,11 +208,11 @@ p{
 }
 
 .icon-13 {
-  color: #26d991;
-  fill: #26d991;
+  color: #FFFFFF;
+  fill: #FFFFFF;
 }
 .icon-13:hover {
-  background: #26d991;
+  background: #000000;
 }
 
 .icon-14 {
@@ -371,6 +371,9 @@ p{
 #section2,
 #section3,
 #section4{
+  height: 100%;-webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
   background-size: cover;
   background-attachment: fixed;
 }
@@ -487,8 +490,8 @@ z-index: 4;
 /*PUTTED IN MEDIA QUERYS FOR MORE RESPONSIVENESS
 .content__container__text{
   font-size: 2em !important;
-}*/
-
+}
+*/
 .content__container {
 font-weight: 400;
 overflow: hidden;
